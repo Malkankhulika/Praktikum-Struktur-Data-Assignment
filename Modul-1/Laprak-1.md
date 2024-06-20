@@ -1,6 +1,7 @@
 # <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
 <p align="center">Khulika Malkan</p>
 
+
 ## Dasar Teori
 Tipe data adalah suatu memori atau media pada komputer yang digunakan untuk menampung informasi atau data sementara [1]. Dalam C++, terdapat 3 tipe data yang dijelaskan yaitu tipe data primitif, tipe data abstrak, dan tipe data koleksi. Ada dua kategori dari tipe data, yaitu tipe data dasar dan tipe data bentukan. Tipe data dasar adalah tipe data yang disediakan oleh bahasa pemrograman, antara lain: bilangan bulat (integer), bilangan biasa (real), bilangan tetap (const), karakter (character atau char), logic (logic atau boolean). Tipe data bentukan adalah tipe data yang dibentuk dari kombinasi tipe data dasar, antara lain larik (array), rekaman (record), string (string). 
 
