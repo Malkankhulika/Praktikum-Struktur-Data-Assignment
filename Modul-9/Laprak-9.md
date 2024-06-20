@@ -13,6 +13,7 @@ c. Mahasiswa mampu menerapkan Hash Code kedalam pemrograman
 ### Rekursif
 rekursif adalah fungsi yang memanggil dirinya sendiri[1]. Fungsi rekursi (Recursive Function) adalah suatu fungsi yang memanggil dirinya sendiri, artinya fungsi tersebut dipanggil didalam tubuh fungsi itu sendiri. Fungsi yang seperti ini disebut fungsi rekursif (recursive function ). Dalam sebuah fungsi rekursif pemanggilan dapat terjadi berulang kali. Karena ada proses yang
 berulang-ulang maka harus ada suatu kondisi yang mengakhiri prosesnya. Jika tidak, maka proses tidak akan pernah berhenti sampai memori yang digunakan tidak dapat menampung lagi.
+
 Jenis-jenis Rekursi
 Terdapat dua jenis fungsi rekursi yaitu:
 <pre>
