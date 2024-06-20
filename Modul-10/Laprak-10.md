@@ -1,6 +1,7 @@
 # <h1 align="center">Laporan Praktikum Modul Graph & Tree
 <p align="center">Khulika Malkan</p>
 <p align="center">2311110057</p>
+
 ## Tujuan Praktikum
 <pre>
 a. Mahasiswa diharapkan mampu memahami graph dan tree
