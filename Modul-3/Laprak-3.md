@@ -7,6 +7,7 @@ Pengurutan merupakan hal yang tidak bisa dipisahkan dari dunia komputer. Adanya 
 
 Sorting didefinisikan sebagai pengurutan sejumlah data berdasarkan nilai kunci tertentu. Pengurutan dapat dilakukan dari nilai terkecil ke nilai terbesar (ascending) atau sebaliknya (descending), algoritma Sorting termasuk salah satu contoh yang
 kaya akan solusi tiga algoritma tersebut adalah :
+
 ### 1. Insertion Sort
 Cara kerja insertion sort sebagaimana namanya. Pertama-tama, dilakukan iterasi, dimana di setiap iterasi insertion sort memindahkan nilai elemen, kemudian menyisipkannya berulang-ulang sampai ke tempat yang tepat. Begitu seterusnya dilakukan. Dari proses iterasi, seperti biasa, terbentuklah bagian yang telah di-sorting dan bagian yang belum [2].
 ### 2. Buble Sort
