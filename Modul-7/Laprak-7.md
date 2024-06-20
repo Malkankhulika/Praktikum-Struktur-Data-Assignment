@@ -28,6 +28,7 @@ Container stack dibuat berdasarkan deque dan tidak memiliki iterator. Container 
 Queue adalah struktur data yang digunakan untuk menyimpan data dengan metode FIFO (First-In First-Out), di mana data yang pertama dimasukkan ke dalam queue akan menjadi data yang pertama pula untuk dikeluarkan dari queue. Queue mirip dengan konsep antrian pada kehidupan sehari-hari. Implementasi queue dapat dilakukan menggunakan array atau linked list. Struktur data queue terdiri dari dua pointer, yaitu front dan rear. Front adalah pointer ke elemen pertama dalam queue, sedangkan rear adalah pointer ke elemen terakhir dalam queue.
 
 
+
 Container queue dibuat berdasarkan deque dan tidak memiliki iterator [2]. Container ini hanya mengijinkan penyisipan elemen pada bagian belakang dan penghapusan elemen pada bagian depan. Selain empty(), size(), push(x), dan pop(), member function yang dimiliki antara lain :
 - front() memberikan elemen paling depan.
 - back() memberikan elemen paling belakang.
