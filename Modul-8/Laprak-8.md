@@ -32,6 +32,7 @@ Pohon tersebut dapat direpresentasikan dalam array sebagai berikut:
 H = [2, 3, 15, 6, 10, 12, 8, 10, 7]
 Indeks setiap node dalam array sesuai dengan levelnya di pohon. Node root berada pada indeks 0, anak kirinya berada pada indeks 1, anak kanannya berada pada indeks 2, dan seterusnya.
 
+
 Sifat heap dapat dipertahankan dengan menggunakan operasi berikut:
 - Memasukkan: Memasukkan elemen baru ke dalam heap.
 - Mengambil Maksimum: Menghapus elemen dengan nilai maksimum dari heap.
