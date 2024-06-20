@@ -38,10 +38,7 @@ Tipe data koleksi (Collection Data Type) adalah tipe data yang digunakan untuk m
 
 ## Unguided 
 
-### 1. Buatlah program menggunakan tipe data primitif minimal dua fungsi dan bebas. Menampilkan program, jelaskan program tersebut dan ambil kesimpulan dari materi tipe data primitif!
-
-
-```
+### 
 #### Output:
 
 #### Full code Screenshot:
@@ -57,9 +54,13 @@ Tipe data koleksi (Collection Data Type) adalah tipe data yang digunakan untuk m
 #### Output:
 
 #### Full code Screenshot:
-![fullcode 3](https://github.com/agungibr/Struktur-Data-Assignment/assets/91455543/6fc913fe-5cd8-47c6-aa97-cdfaf14d4611)
+
+
 
 ## Kesimpulan
 Pada modul 1 guided ini kita belajar mengenai tipe data yang ada pada bahasa C++. Ada 3 tipe data yang ada yaitu tipe data prim
+
+
+
 ## Referensi
 [1] Khoirudin, Algoritma & Struktur Data dengan Python 3. Semarang: Universitas Semarang Press, 2019.
