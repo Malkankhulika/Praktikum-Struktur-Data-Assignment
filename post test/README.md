@@ -1,1 +1,0 @@
-# Praktikum-Struktur-Data-Assignment
