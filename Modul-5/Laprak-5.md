@@ -15,7 +15,6 @@ Suatu struktur (structure) yaitu tipe data bentukan yang menyimpan lebih dari sa
 Variabel-variabel yang membentuk suatu struktur ini selanjutnya disebut dengan elemen atau anggota struktur. Dengan demikian suatu struktur dimungkinkan dapat berisi dengan elemen-elemen data bertipe int, float, char dan lainnya. Dengan menggunakan struktur maka data ini dapat diolah per elemen (field) atau secara keseluruha (per 
 struktur, per-record). Structure atau struct adalah kumpulan dari beberapa variabel dengan beragam tipe data yang dibungkus dalam satu variabel.
 
-
 ## Guided
 ### 1. Buatlah sebuah struktur dengan nama buku yang berisi judul_buku, pengarang, penerbit, tebal_halaman, harga_buku. Isi dengan nilai kemudian tampilkan.
 ```C++
