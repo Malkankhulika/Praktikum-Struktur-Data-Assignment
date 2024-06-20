@@ -1,4 +1,3 @@
-# Modul-2
 # <h1 align="center">Laporan Praktikum Modul Array</h1>
 <p align="center">Khulika Malkan</p>
 <p align="center">2311110057</p>
