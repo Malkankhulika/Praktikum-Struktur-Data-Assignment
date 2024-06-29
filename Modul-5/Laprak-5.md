@@ -5,6 +5,7 @@
 ## Dasar Teori
 Tipe data bentukan yaitu tipe data yang dibuat sendiri sesuai kebutuhan dalam program yang akan kita buat. Dalam bahasa latin sering disebut user defined types. Adapun yang termasuk dalam kategori tipe bentukan ini adalah array (larik), struktur dan enumerasi.
 
+
 ### Variabel
 Analogi dari variabel seperti sebuah tempat untuk menampung atau menyimpan suatu data dengan tipe data tertentu. Format penulisan/deklarasi variabel adalah tipe_data nama_variabel, contoh int berat, string mata_kuliah, char jenis_kelamin. Secara default sebuah variabel hanya dapat menampung sebuah nilai misalnya variabel berat hanya dapat menampung satu nilai berat 175 kg, tidak bisa diisi lebih dari satu. Jika diinginkan dapat menampung lebih dari satu nilai maka deklarasikan variabel sebagai array, dengan format penulisan tipe_data nama_variabel [banyak data] [1].
 
