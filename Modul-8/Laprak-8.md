@@ -9,6 +9,7 @@ Menetapkan Nilai Prioritas Umumnya, nilai elemen itu sendiri dipertimbangkan unt
 Priority Queue adalah struktur data khusus yang memungkinkan kita menyimpan elemen-elemen dengan nilai prioritas tertentu. Konsep dasar Priority Queue mirip dengan antrian biasa, namun perbedaannya adalah setiap elemen dalam Priority Queue memiliki nilai prioritas yang menentukan urutan elemen saat diambil. Elemen dengan nilai prioritas tertinggi akan diambil terlebih dahulu, bukan elemen yang paling lama berada dalam antrian [2].
 
 ### Priority Queue
+
 ![image](https://github.com/Malkankhulika/Modul-8/assets/149793653/aed386bd-67f4-456e-b64e-221023af7e1b)
 
 Gambar diatas menunjukkan pohon biner dengan kunci terendah dan kunci tertinggi [3].
