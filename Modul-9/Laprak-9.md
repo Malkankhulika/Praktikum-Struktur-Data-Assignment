@@ -25,6 +25,7 @@ Kelebihan Fungsi Rekursif adalah program menjadi lebih singkat. Pada beberapa ka
 ### Hash Table
 Hash Table adalah sebuah struktur data yang terdiri atas sebuah tabel dan fungsi yang bertujuan untuk memetakan nilai kunci yang unik untuk setiap record (baris) menjadi angka (hash) lokasi record tersebut dalam sebuah tabel. Keunggulan dari struktur hash [3].
 
+
 Hash Table merupakan sebuah struktur data yang terdiri dari sebuah tabel dan fungsi untuk memetakan nilai kunci yang unik pada setiap baris menjadi angka (hash) yang menunjukkan lokasi record tersebut dalam tabel. Keuntungan dari struktur Hash Table ini adalah akses yang cepat jika record yang dicari langsung berada pada angka hash lokasi penyimpanannya.
 Namun, seringkali terjadi pertabrakan (collision) pada Hash Table di mana beberapa record memiliki angka hash yang sama. Hal ini terjadi karena hash function yang digunakan tidak dapat memetakan setiap record secara unik, sehingga dibutuhkan kebijakan resolusi bentrokan (collision resolution policy) untuk menentukan lokasi record dalam tabel. Biasanya, kebijakan resolusi bentrokan dilakukan dengan mencari lokasi tabel yang masih kosong setelah lokasi yang telah terbentur.
 Operasi pada Hash Table :
