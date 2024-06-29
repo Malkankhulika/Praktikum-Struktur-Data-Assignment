@@ -12,6 +12,7 @@ Pada aplikasi komputer, pencarian kerapkali dilakukan. Misalnya untuk proses pen
 </pre>
 Ada  beberapa  algoritma  yang  bisa digunakan untuk melakukan pencarian, salah satunya adalah Sequential Search, yaitu  algoritma  yang  dasar  dan  simpel dari  pencarian,  dimana menggunakan metode pencarian data dari paling awal hingga  paling  akhir dari sebuah list sampai data ditemukan [1].
 
+
 ### 1. SEQUENTIAL SEARCH
 Sequential Search adalah cara untuk  pencarian  data  dalam  array  1 dimensi.  Data  yang  akan  dicari  nanti akan  ditelusuri dalam  semua  elemen-elemen  array  dari  awal  sampai  akhir, dan data yang dicari tersebut tidak perlu diurutkan  terlebih  dahulu. Pencarian beruntun dapat dilakukan terhadap elemen array yang belum terurut atau terhadap elemen array yang terurut. Perbedaan dari keduanya terletak pada efisiensi operasi pembandingan yang dilakukan. Dengan kata lain sequential search akan mencari data dengan cara membandingkannya satu-persatu dengan data yang ada. Prosesnya tentu saja akan singkat jika data yang diolah sedikit, dan akan lama jika data yang diolah banyak. Metode ini disarankan untuk digunakan pada data yang sedikit saja. Terdapat  2 kemungkinan  yang  akan  terjadi  dalam waktu pencarian data Sequential Search, diantaranya yaitu [2] :
 - Best CaseBest case/   kemungkinan   terbaik akan terjadi apabila data yang dicari terletakpada index array yang paling depan, sehingga waktu yang dibutuhkan    untuk   mencari    data sedikit.
