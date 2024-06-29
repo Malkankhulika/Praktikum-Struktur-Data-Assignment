@@ -6,6 +6,7 @@
 Istilah stack dalam c++ adalah tumpukan, tumpukan sendiri dalam bahasa kita adalah pengumpulan sebuah data lalu menaruh data tersebut ke dalam data-data lain yang sudah di tata sebelumnya, metode peletakan beberapa data di atas data- data [1].
 Secara mudahnya misalkan kita ingin mengambil beberapa buku yang ada di rak perpustakaan untuk dipindahkan ke rak buku lainya, lalu dalam pengambilan beberapa buku yang ada di perpustakaan tersebut, sebelum dipindahkan kita mengambil satu persatu buku dari perpustakaan lalu menatanya menjadi satu tumpukan bukan ? nah tumpukan buku tersebutlah yang dinamakan stack.
 
+
 ![image](https://github.com/Malkankhulika/Modul-7/assets/149793653/2a7b6ed1-f5b1-4e4b-9bd9-a628224ec9a8)
 
 ### Stack
