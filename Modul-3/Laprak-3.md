@@ -5,6 +5,7 @@
 ## Dasar Teori
 Pengurutan merupakan hal yang tidak bisa dipisahkan dari dunia komputer. Adanya kebutuhan terhadap proses pengurutan memunculkan bermacam-macam metode pengurutan yang bertujuan untuk memperoleh metode pengurutan yang optimal. Dengan menggunakan algoritma yang baik dapat menghasilkan program yang efisien dari segi waktu dan hasil yang dicapai. Data terkadang berada dalam bentuk yang tidak berpola ataupun dengan pola tertentu yang diinginkan. Secara umum ada dua jenis pengurutan data yaitu model urut naik (ascending) yang mengurutkan data dari yang mempunyai nilai terkecil sampai terbesar dan model urut turun (descending) yang mengurutkan data dari yang mempunyai nilai terbesar sampai terkecil. Perbandingan pengurutan data (sorting) dalam sebuah array (L) menggunakan dua algoritma dengan prinsip kerja yang berbeda. Pada algoritma metode selection sort menggunakan prinsip pertukaran elemen dalam proses sorting, dan metode insertion sort menggunakan prinsip geser dan sisip elemen dalam proses sorting. Tidak ada algoritma terbaik untuk semua keadaan, kadang kala sebuah algoritma sangat efisien ketika jumlah datanya sedikit, namun kinerjanya menjadi berkurang ketika jumlah data ditambahkan atau meningkat [1].
 
+
 Sorting didefinisikan sebagai pengurutan sejumlah data berdasarkan nilai kunci tertentu. Pengurutan dapat dilakukan dari nilai terkecil ke nilai terbesar (ascending) atau sebaliknya (descending), algoritma Sorting termasuk salah satu contoh yang
 kaya akan solusi tiga algoritma tersebut adalah :
 
