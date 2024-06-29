@@ -8,7 +8,6 @@ Dengan adanya praktikum ini, penulis telah menargetkan beberapa tujuan diantaran
 2. Mahasiswa dapat mengetahui jenis dimensi array dan cara penulisannya.
 3. Mahasiswa dapat mengimplementasikan array pada kode program yang dibuat.
 
-   
 ## Dasar Teori
 Array adalah suatu struktur yang terdiri dari sejumlah elemen yang memiliki tipe data yang sama. Elemen-elemen array tersusun secara sekuensial dalam memori komputer. Semua elemem array bertipe sama. Array cocok untuk organisasi kumpulan data homogen yang ukuran atau jumlah elemen maksimumnya telah diketahui dari awal. Homogen adalah bahwa setiap elemen dari sebuah array tertentu haruslah mempunyai tipe data yang sama.[1]
 Array adalah suatu struktur yang terdiri dari sejumlah elemen yang memiliki tipe data yang sama. Elemen-elemen array tersusun secara sekuensial dalam memori komputer. Semua elemem array bertipe sama. Array cocok untuk organisasi kumpulan data homogen yang ukuran atau jumlah elemen maksimumnya telah diketahui dari awal [2].Homogen adalah bahwasetiap elemen dari sebuah array tertentu haruslah mempunyai tipe data yang sama.Array dibagi menjadi beberapa jenis yaitu :
